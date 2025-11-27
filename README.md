@@ -11,8 +11,8 @@ This repository is the official PyTorch implementation of "Universal Compressed 
 
 [Changwoo Han](https://sites.google.com/view/deepiplab/members/students)<sup>1*</sup>,
 [Hongil Kim](https://sites.google.com/view/deepiplab/members/students)<sup>1*</sup>,
-[Donghyun Kim]<sup>2</sup>,
-[Sung-Chang Lim]<sup>2</sup>,
+Donghyun Kim<sup>2</sup>,
+Sung-Chang Lim<sup>2</sup>,
 [Seung-Won Jung](https://sites.google.com/view/deepiplab/members/project-definition)<sup>1</sup>&#x2709;
 
 <sup>1</sup>Korea University DIP Lab, <sup>2</sup>ETRI Media Coding Research Section
