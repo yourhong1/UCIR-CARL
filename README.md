@@ -8,25 +8,14 @@ This repository is the official PyTorch implementation of "Universal Compressed 
 
 <a href="https://your-project-page.github.io"><img src="https://img.shields.io/badge/Project-Homepage-green" alt="Project"></a>
 <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/ArXiv-2503.10639-B31B1B" alt="ArXiv"></a>
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow" alt="HuggingFace"></a>
 
-<br>
-
-<br>
-
-[Rongyao Fang](https://sites.google.com/view/deepiplab/members/students)<sup>1*</sup>,
+[Changwoo Han](https://sites.google.com/view/deepiplab/members/students)<sup>1*</sup>,
 [Hongil Kim](https://sites.google.com/view/deepiplab/members/students)<sup>1*</sup>,
 [Donghyun Kim]<sup>2</sup>,
 [Sung-Chang Lim]<sup>2</sup>,
 [Seung-Won Jung](https://sites.google.com/view/deepiplab/members/project-definition)<sup>1</sup>&#x2709;
 
-<br>
-<br>
-
 <sup>1</sup>Korea University DIP Lab, <sup>2</sup>ETRI Media Coding Research Section
-
-<br>
-<br>
 
 <small>* Equal contribution, &#x2709; Corresponding authors</small>
 
@@ -35,7 +24,7 @@ This repository is the official PyTorch implementation of "Universal Compressed 
 ---
 
 <div align="center">
-  <img src="figures/framework.png" width="100%" alt="Overall Framework">
+  <img src="./figures/framework.png" width="100%" alt="Overall Framework">
 </div>
 
 <br>
