@@ -30,11 +30,11 @@ This repository is the official PyTorch implementation of "Universal Compressed 
 <br>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1P1I7r6wHU8s3-iPl0mz-sWq-SIwqWOy2/view?usp=drive_link" target="_blank">Supplementary</a> •
-  <a href="#introduction">Introduction</a> •
-  <a href="#datasets">Datasets</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#results">Results</a> •
+  <a href="https://drive.google.com/file/d/1P1I7r6wHU8s3-iPl0mz-sWq-SIwqWOy2/view?usp=drive_link" target="_blank">supplementary material</a> •
+  <a href="#introduction">introduction</a> •
+  <a href="#datasets">datasets</a> •
+  <a href="#architecture">architecture</a> •
+  <a href="#results">results</a> •
 </div>
 
 ---
