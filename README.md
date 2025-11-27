@@ -34,7 +34,7 @@ Sung-Chang Lim<sup>2</sup>,
   <a href="#introduction">introduction</a> •
   <a href="#datasets">datasets</a> •
   <a href="#architecture">architecture</a> •
-  <a href="#results">results</a> •
+  <a href="#results">results</a>
 </div>
 
 ---
