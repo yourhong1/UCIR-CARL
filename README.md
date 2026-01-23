@@ -68,6 +68,21 @@ We address the task of universal compressed image restoration, which involves re
 <a id="results"></a>
 ## Results
 * Quantitative Results
+<div align="center">
+  <img src="./figures/table1.png" width="90%" alt="D1 results">
+</div>
+
+<div align="center">
+  <img src="./figures/table2.png" width="90%" alt="D2(level) results">
+</div>
+
+<div align="center">
+  <img src="./figures/table34.png" width="90%" alt="D2(type) and Du results">
+</div>
+
+<div align="center">
+  <img src="./figures/table5.png" width="90%" alt="Du results">
+</div>
 
 * Qualitative Results
 <div align="center">
