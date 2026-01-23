@@ -47,16 +47,30 @@ Sung-Chang Lim<sup>2</sup>,
 <a id="introduction"></a>
 ## Introduction
 
+<div align="center">
+  <img src="./figures/introduction.png" width="100%" alt="Introduction">
+</div>
+
 We address the task of universal compressed image restoration, which involves recovering high-quality images degraded by a wide range of codecs and compression levels. While prior methods have made significant progress, they typically target specific degradation types and struggle to generalize across both traditional and learning-based codecs. To overcome this limitation, we propose a unified framework that leverages codec-aware conditioning and reinforcement learning-based fine-tuning. Specifically, we introduce a conditioning module that encodes both codec type and compression level, enabling the restoration network to adapt its behavior to diverse degradation settings. To further improve generalization, we incorporate reward-based objectives during fine-tuning, providing complementary signals that enhance training across both conventional and learned compression schemes. Experimental results demonstrate the effectiveness of our method in restoring images across a wide range of compression artifacts and scenarios.
 
 <a id="datasets"></a>
 ## Datasets
+# Train
 * DIV2K
 * Flickr2K
+# Test
+* LIVE1
+* Classic5
+* BSDS500
+* DIV2K_valid
+* Urban100
 
 <a id="architecture"></a>
 ## Architecture
-* -
+
+<div align="center">
+  <img src="./figures/RNet_PNet_Structure.png" width="100%" alt="Architecture of R-Net and P-Net">
+</div>
 
 <a id="results"></a>
 ## Results
