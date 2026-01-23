@@ -55,15 +55,8 @@ We address the task of universal compressed image restoration, which involves re
 
 <a id="datasets"></a>
 ## Datasets
-# Train
-* DIV2K
-* Flickr2K
-# Test
-* LIVE1
-* Classic5
-* BSDS500
-* DIV2K_valid
-* Urban100
+* Train (DIV2K & Flickr2K)
+* Test (LIVE1 & Classic5 & BSDS500 & DIV2K_valid & Urban100)
 
 <a id="architecture"></a>
 ## Architecture
