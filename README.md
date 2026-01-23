@@ -62,7 +62,7 @@ We address the task of universal compressed image restoration, which involves re
 ## Architecture
 
 <div align="center">
-  <img src="./figures/RNet_PNet_Structure.png" width="100%" alt="Architecture of R-Net and P-Net">
+  <img src="./figures/RNet_PNet_Structure.png" width="80%" alt="Architecture of R-Net and P-Net">
 </div>
 
 <a id="results"></a>
