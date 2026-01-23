@@ -74,6 +74,34 @@ We address the task of universal compressed image restoration, which involves re
   <img src="./figures/results_main.png" width="90%" alt="Main results">
 </div>
 
+<div align="center">
+  <img src="./figures/jpeg_results.png" width="90%" alt="JPEG results">
+</div>
+
+<div align="center">
+  <img src="./figures/hevc_results.png" width="90%" alt="HEVC results">
+</div>
+
+<div align="center">
+  <img src="./figures/vvc_results.png" width="90%" alt="VVC results">
+</div>
+
+<div align="center">
+  <img src="./figures/e2e_results.png" width="90%" alt="E2E results">
+</div>
+
+<div align="center">
+  <img src="./figures/hific_results.png" width="90%" alt="HiFiC results">
+</div>
+
+<div align="center">
+  <img src="./figures/webp_results.png" width="90%" alt="WebP results">
+</div>
+
+<div align="center">
+  <img src="./figures/avc_results.png" width="90%" alt="AVC results">
+</div>
+
 ## License
 This code is released under the MIT License.
 
