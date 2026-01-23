@@ -67,10 +67,16 @@ We address the task of universal compressed image restoration, which involves re
 
 <a id="results"></a>
 ## Results
-* -
+* Quantitative Results
+
+* Qualitative Results
+<div align="center">
+  <img src="./figures/results_main.png" width="100%" alt="Main results">
+</div>
 
 ## License
 This code is released under the MIT License.
 
 ## Citation
 If you find this work helpful, please consider citing:
+... Released Soon ...
