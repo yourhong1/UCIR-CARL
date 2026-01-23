@@ -71,7 +71,7 @@ We address the task of universal compressed image restoration, which involves re
 
 * Qualitative Results
 <div align="center">
-  <img src="./figures/results_main.png" width="100%" alt="Main results">
+  <img src="./figures/results_main.png" width="90%" alt="Main results">
 </div>
 
 ## License
