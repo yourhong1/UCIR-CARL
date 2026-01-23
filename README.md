@@ -6,8 +6,8 @@ This repository is the official PyTorch implementation of "Universal Compressed 
 
 <h1>Universal Compressed Image Restoration via Codec-Aware Conditioning with Reinforcement Learning</h1>
 
-# <a href="https://your-project-page.github.io"><img src="https://img.shields.io/badge/Project-Homepage-green" alt="Project"></a>
-# <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/ArXiv-2503.10639-B31B1B" alt="ArXiv"></a>
+<a href="https://your-project-page.github.io"><img src="https://img.shields.io/badge/Project-Homepage-green" alt="Project"></a>
+<a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/ArXiv-2503.10639-B31B1B" alt="ArXiv"></a>
 
 [Changwoo Han](https://sites.google.com/view/deepiplab/members/students)<sup>1*</sup>,
 [Hongil Kim](https://sites.google.com/view/deepiplab/members/students)<sup>1*</sup>,
